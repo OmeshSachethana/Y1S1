@@ -1,4 +1,3 @@
-//IT21143236
 /*C program to read data from a text file*/
 
 #include<stdio.h>
