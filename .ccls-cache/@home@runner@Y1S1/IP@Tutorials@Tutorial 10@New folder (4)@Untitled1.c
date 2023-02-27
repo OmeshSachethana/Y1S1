@@ -1,5 +1,6 @@
 /*C program to read data from a text file*/
 
+
 #include<stdio.h>
 //main function
 int main(void)
