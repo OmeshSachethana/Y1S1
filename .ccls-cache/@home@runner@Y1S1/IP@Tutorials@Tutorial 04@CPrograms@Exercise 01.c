@@ -1,4 +1,4 @@
-//IT21143236
+
 /*C program to input an integer from the keyboard and convert the number into a positive number,
  if the user input is a negative value*/
 #include<stdio.h>

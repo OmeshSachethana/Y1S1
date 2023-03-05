@@ -1,4 +1,4 @@
-//IT21143236
+
 /* C program using forloops to display the following pattern on the screen.*/
 #include<stdio.h>
 

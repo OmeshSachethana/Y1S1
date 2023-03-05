@@ -1,4 +1,4 @@
-//IT21143236
+
 /* Exercise 03 */
 
 #include<stdio.h>

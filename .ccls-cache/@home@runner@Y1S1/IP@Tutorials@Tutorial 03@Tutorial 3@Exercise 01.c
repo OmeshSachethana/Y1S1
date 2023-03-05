@@ -1,4 +1,4 @@
-//IT21143236
+
 /*Enter the radius of a circle and displays
  the diameter, the circumference and the area. */
  

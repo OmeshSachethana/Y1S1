@@ -1,4 +1,4 @@
-//IT21143236
+
 /*Enter the mark obtained for IP module and display the grade*/
 
 #include<stdio.h>

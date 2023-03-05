@@ -1,4 +1,4 @@
-//IT21143236
+
 /*write a C program to update the bank balance of a customer based on the 
 transactions performed (withdrawals/ deposits) by the customer. */
 

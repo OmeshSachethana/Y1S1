@@ -1,4 +1,4 @@
-//IT21143236
+
 /* A simple calculator using a switch statement*/
 
 #include<stdio.h>
